@@ -1,0 +1,11 @@
+C:\ProgProj\WebJob\WebJobTrigger\WebJobTrigger\bin\Debug\netcoreapp2.0\WebJobTrigger.deps.json
+C:\ProgProj\WebJob\WebJobTrigger\WebJobTrigger\bin\Debug\netcoreapp2.0\WebJobTrigger.runtimeconfig.json
+C:\ProgProj\WebJob\WebJobTrigger\WebJobTrigger\bin\Debug\netcoreapp2.0\WebJobTrigger.runtimeconfig.dev.json
+C:\ProgProj\WebJob\WebJobTrigger\WebJobTrigger\bin\Debug\netcoreapp2.0\WebJobTrigger.dll
+C:\ProgProj\WebJob\WebJobTrigger\WebJobTrigger\bin\Debug\netcoreapp2.0\WebJobTrigger.pdb
+C:\ProgProj\WebJob\WebJobTrigger\WebJobTrigger\obj\Debug\netcoreapp2.0\WebJobTrigger.csprojResolveAssemblyReference.cache
+C:\ProgProj\WebJob\WebJobTrigger\WebJobTrigger\obj\Debug\netcoreapp2.0\WebJobTrigger.csproj.CoreCompileInputs.cache
+C:\ProgProj\WebJob\WebJobTrigger\WebJobTrigger\obj\Debug\netcoreapp2.0\WebJobTrigger.AssemblyInfoInputs.cache
+C:\ProgProj\WebJob\WebJobTrigger\WebJobTrigger\obj\Debug\netcoreapp2.0\WebJobTrigger.AssemblyInfo.cs
+C:\ProgProj\WebJob\WebJobTrigger\WebJobTrigger\obj\Debug\netcoreapp2.0\WebJobTrigger.dll
+C:\ProgProj\WebJob\WebJobTrigger\WebJobTrigger\obj\Debug\netcoreapp2.0\WebJobTrigger.pdb
